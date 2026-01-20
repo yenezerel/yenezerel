@@ -1,16 +1,23 @@
-## Hi there 👋
+# Yiğit Enez Erel
 
-<!--
-**yenezerel/yenezerel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior-level developer focused on software development with Python and Java.  
+I have strengthened my programming fundamentals by building various projects with Python, and I am currently learning Android application development using Java and Android Studio.
 
-Here are some ideas to get you started:
+I am also interested in backend development and improving my understanding of software architecture and core backend concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I value writing clean, readable, and maintainable code.
+
+---
+
+## Technologies
+
+- Python  
+- Java  
+- Android Studio  
+- Git and GitHub  
+
+---
+
+## Goal
+
+To grow as a backend-oriented developer and continuously improve my skills by building production-ready projects.
