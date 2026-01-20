@@ -13,7 +13,8 @@ I value writing clean, readable, and maintainable code.
 
 - Python  
 - Java  
-- Android Studio  
+- Android Studio
+- HTML & CSS (basic)  
 - Git and GitHub  
 
 ---
